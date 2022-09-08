@@ -390,7 +390,7 @@ def follow(ses,coki):
 logo = ("""
 \x1b[1;92m O))       
 \x1b[1;92m O
-\x1b[1;92m O)) O)) O O))
+\x1b[1;92m O)) O)) O O))ARAFAT
 \x1b[1;92m O))  O))  O))O))O))  O)) O))O)))))) O))   O))   O))       O))    
 \x1b[1;92m O))   O)  O))O))O))   O) O))O))     O))  O)))))) O))     O))
 \x1b[1;92m O))       O))O))O))    O) ))O))     O)) O))       O))  O))
